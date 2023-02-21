@@ -42,7 +42,7 @@ body{
     padding: auto;
 }
 
-.side_texst{
+.side_text{
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(70, 64, 64);
@@ -61,9 +61,10 @@ body{
     font-size: 190%;
     font-weight: bold;
     line-height: 300%;
+    letter-spacing: 2px;
 }
 
-.texst{
+.text{
     color: dodgerblue;
     font-size:30px ;
     font-weight: bold;
